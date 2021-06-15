@@ -1,0 +1,35 @@
+.center_text_align {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.center_text_align * {
+    text-align: center;
+}
+ 
+.centerStuff{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.body-inner-text{
+    display:flex;
+    align-self: center;
+}
+.news-content,.news-image{
+    object-fit: scale-down ;
+    width: 400px;
+    height: 600px;
+}
+
+.customNav{
+    display: flex;
+    align-items: center;
+    width: 100vw;
+}
+
+.alignSelfEnd{
+    justify-self: flex-end;
+}

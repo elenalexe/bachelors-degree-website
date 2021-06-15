@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<catalog>
+   <book id="bk101">
+      <autor>Kyung Bong Koh </autor>
+      <titlu>Somatization and Psychosomatic Symptoms </titlu>
+      <an>2013 </an>
+      <revista>Book</revista>
+   </book>
+   <book id="bk102">
+      <autor>M Basch </autor>
+      <titlu>Children's Somatization Inventory: factor structure and clinical reference points in pediatric chronic pain </titlu>
+      <an>2016 </an>
+      <magazine>The Journal of Pain </magazine>
+   </book>
+</catalog>
